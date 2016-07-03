@@ -18,7 +18,7 @@ header {
 
 .mainContainer {
   width: 80%;
-  height: 25rem;
+  height: 28rem;
   text-align: center;
   margin: 5rem; }
 
@@ -36,7 +36,8 @@ header {
 
 .albumsContainer {
   margin: 2rem;
-  margin-left: 14rem; }
+  margin-left: 14rem;
+  height: 12rem; }
 
 .photoCover {
   float: left;
@@ -69,11 +70,11 @@ img {
   text-align: center; }
 
 nav {
-  position: fixed;
   height: 100%;
   width: 8rem;
   background-color: grey;
-  padding-top: 5rem; }
+  padding-top: 5rem;
+  position: fixed; }
 
 ul {
   padding: 0;
@@ -104,5 +105,8 @@ li {
   width: 25rem;
   margin: 5rem auto;
   display: block; }
+
+.hidden {
+  display: none; }
 
 /*# sourceMappingURL=main.css.map */
