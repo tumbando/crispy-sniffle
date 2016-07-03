@@ -86,4 +86,23 @@ li {
   color: grey;
   width: 6rem; }
 
+.photoContainer {
+  background-color: #5d5f64;
+  height: 45rem; }
+
+.backLink {
+  border: 1px solid grey;
+  border-radius: 1rem;
+  width: 10rem;
+  background-color: white;
+  padding: 1rem;
+  margin-top: -8rem;
+  margin-left: 1rem; }
+
+.profile {
+  height: 25rem;
+  width: 25rem;
+  margin: 5rem auto;
+  display: block; }
+
 /*# sourceMappingURL=main.css.map */
